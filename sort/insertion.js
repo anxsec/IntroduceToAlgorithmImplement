@@ -11,7 +11,7 @@ function insertion_sort(unsortedArray) {
 
 // algorithm test
 const unsortedArray = [];
-for ( let i = 0; i <10; i++) {
+for ( let i = 0; i <1000; i++) {
   unsortedArray.push(Math.floor(Math.random() * 1000));
 }
 

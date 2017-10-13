@@ -27,7 +27,7 @@ function partition(arr) {
 // test algorithm
 
 const unsortedArray = [];
-for ( let i = 0; i <1000000; i++) {
+for ( let i = 0; i <1000; i++) {
   unsortedArray.push(Math.floor(Math.random() * 1000));
 }
 
